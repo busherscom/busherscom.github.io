@@ -55,7 +55,7 @@ sdk_path = "$ANDROID_HOME"
 # The same policy is applied to the archive repo, if there is one.
 # repo_maxage = 0
 
-repo_url = "http://localhost/fdroid/repo"
+repo_url = "https://bushers.net/repo"
 repo_name = "My First F-Droid Repo Demo"
 repo_icon = "fdroid-icon.png"
 repo_description = """
@@ -70,7 +70,7 @@ using the tools on https://gitlab.com/u/fdroid.
 # older ones going to the archive. Set it to 0, and there will be no archive
 # repository, and no need to define the other archive_ values.
 archive_older = 3
-archive_url = "https://f-droid.org/archive"
+archive_url = "https://bushers.net/archive"
 archive_name = "My First F-Droid Archive Demo"
 archive_icon = "fdroid-icon.png"
 archive_description = """
