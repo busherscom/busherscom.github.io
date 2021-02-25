@@ -1,0 +1,158 @@
+{
+  "METADATA_VERSION": 21,
+  "allow_disabled_algorithms": false,
+  "tvsdt-wireless.apk": {
+    "hash": "62fbc56c09dc3da59492883fac60d70d04ea62a3d1526a453943240e7f2c87b8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH_ADMIN",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "com.bushers.tvsdt.wireless.17.xml",
+      "640": "com.bushers.tvsdt.wireless.17.png",
+      "480": "com.bushers.tvsdt.wireless.17.png",
+      "320": "com.bushers.tvsdt.wireless.17.png",
+      "240": "com.bushers.tvsdt.wireless.17.png",
+      "160": "com.bushers.tvsdt.wireless.17.png",
+      "0": "com.bushers.tvsdt.wireless.17.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.bushers.tvsdt.wireless",
+    "versionCode": 17,
+    "name": "TVSDT Wireless",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "c1043c778bc92bfe3d753a0b15bf32f0",
+    "signer": "81761aa7a73975dd8f653fc8a60cb84f15d45f993244b9152487036aed42f121",
+    "size": 1542349,
+    "apkName": "tvsdt-wireless.apk",
+    "icon": "com.bushers.tvsdt.wireless.17.png",
+    "added": 1614226503.929264
+  },
+  "tvsdt.apk": {
+    "hash": "d1e8fa6ed71153d69a2348da327da63e69349b03a507bdaf158e289960092bd4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.bushers.tvsdt",
+    "versionCode": 9,
+    "name": "BUSHERS TVSDT",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "c1043c778bc92bfe3d753a0b15bf32f0",
+    "signer": "81761aa7a73975dd8f653fc8a60cb84f15d45f993244b9152487036aed42f121",
+    "size": 1283413,
+    "apkName": "tvsdt.apk",
+    "added": 1614226504.352915
+  },
+  "tvsm.apk": {
+    "hash": "c1c79f604bf94db1be5eb9e88118b3c570c5c6cb2426fc5ef6001a14454795e0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "ms.appcenter.sampleapp.android.3.png",
+      "480": "ms.appcenter.sampleapp.android.3.png",
+      "320": "ms.appcenter.sampleapp.android.3.png",
+      "240": "ms.appcenter.sampleapp.android.3.png",
+      "160": "ms.appcenter.sampleapp.android.3.png",
+      "0": "ms.appcenter.sampleapp.android.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "ms.appcenter.sampleapp.android",
+    "versionCode": 3,
+    "name": "AC Sample App",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "c1043c778bc92bfe3d753a0b15bf32f0",
+    "signer": "81761aa7a73975dd8f653fc8a60cb84f15d45f993244b9152487036aed42f121",
+    "size": 1694445,
+    "apkName": "tvsm.apk",
+    "icon": "ms.appcenter.sampleapp.android.3.png",
+    "added": 1614226504.762942
+  }
+}
